@@ -64,7 +64,7 @@ Visit the live version of this portfolio on Netlify (or any specified URL) to ex
 
 - Netlify Live Link: https://whimsical-conkies-933f7a.netlify.app/
 
-- GitHub Repo: 
+- GitHub Repo: https://github.com/PaigeC001/ReactPortfolio
 
 
 
